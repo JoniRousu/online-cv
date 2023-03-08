@@ -73,7 +73,7 @@ education:
         university: Universität Duisburg-Essen
         time: 2016 - 2021
         details: |
-          Bachelorarbeit: „Konzeption eines Roboterarbeitsplatzes zur Programmierung eines Produktes mit prototypischer Umsetzung“
+          Bachelorarbeit: \"Konzeption eines Roboterarbeitsplatzes zur Programmierung eines Produktes mit prototypischer Umsetzung\"
 experiences:
     title: Berufserfahrung
     info:
@@ -90,16 +90,17 @@ experiences:
         details: |
           Entwicklung, Test und Inbetriebnahme von Hardware und Software für Produktion und Forschungs- und Entwicklungsabteilung
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projekte
+    # intro: >
+    #   You can list your side projects in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: "Bachelorprojekt: \"Aerodynamische Levitiation eines Balls\""
+        # link: "#hook"
+        tagline: "(Teilweise) Entwicklung, Aufbau und Inbetriebnahme einer Anlage um einen Tischtennisball zum Schweben zu bringen. 
+        Hauptaufgabe: Streckenidentifikation und anschließender Reglerentwurf mit MATLAB/Simulink."
 
 # oss:
 #     title: OSS Contributions
